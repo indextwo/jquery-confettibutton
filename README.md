@@ -1,15 +1,15 @@
 jQuery Confetti Button
 ============================
 
-Ever wanted to add some luminosity to your links? Brashness to your buttons? Clinquant to your CTA? Or some glitz & glamour 
-to anything else, for that matter? Then you need to get you some CONFETTI.
+Ever wanted to add some luminosity to your links? Brashness to your buttons? _Clinquant_ to your CTA? Or some glitz & glamour 
+to anything else, for that matter? Then you need to get you some **CONFETTI**.
 
-Confetti Button is a teeny little (1.02kb minified) plugin that you can call against any DOM element (although smaller things 
+**Confetti Button** is a teeny little (1.02kb minified) plugin that you can call against any DOM element (although smaller things 
 like buttons & image containers tend to work best) to instantly add a fizzy flume of confetti.
 
 ### Prerequisites
 
-At a minimum, Confetti Button requires jQuery 1.6.0 to be included, and the accompanying CSS stylesheet to be included within 
+At a minimum, **Confetti Button** requires jQuery 1.6.0 to be included, and the accompanying CSS stylesheet to be included within 
 your page:
 
 ```html
@@ -35,7 +35,7 @@ use it on a button, `div`, `a`, `label` or anything else that can contain other 
 use it on (without some extra markup, at least) are non-containing or self-closing elements. These include `img`, `input`, 
 `hr`, `br` and `embed`.
 
-If you want to use Confetti Button on a self-closing element, I recommend wrapping it in a containing element (like a `div`) 
+If you want to use **Confetti Button** on a self-closing element, I recommend wrapping it in a containing element (like a `div`) 
 and applying `$.confettiButton()` to that. 
 
 ## Parameters
@@ -52,7 +52,7 @@ and applying `$.confettiButton()` to that.
 
 ## Notes
 
- As Confetti Button is predominantly CSS-based, you can control a lot of how it works simply by modifying the CSS. For 
+ As **Confetti Button** is predominantly CSS-based, you can control a lot of how it works simply by modifying the CSS. For 
  example, by default the confetti bits are square. To make them round, you just add:
 
 ```css
