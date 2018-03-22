@@ -1,4 +1,4 @@
-jquery-confettibutton
+jQuery Confetti Button
 ============================
 
 Ever wanted to add some luminosity to your links? Brashness to your buttons? Clinquant to your CTA? Or some glitz & glamour 
